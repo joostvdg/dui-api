@@ -63,7 +63,7 @@ bintray {
     pkg {
         // https://dl.bintray.com/joostvdg/maven-demo-lib
         repo = 'maven-demo-lib'
-        name = 'dui-lib-logging'
+        name = 'dui-api'
         userOrg = 'joostvdg'
         licenses = ['MIT']
         vcsUrl = 'https://github.com/joostvdg/dui-api.git'
